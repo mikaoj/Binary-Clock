@@ -7,23 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F41C44AE1DB002BB009174A8 /* UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41C44AD1DB002BB009174A8 /* UIColor.swift */; };
-		F41C44B01DB265F4009174A8 /* L33tLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41C44AF1DB265F4009174A8 /* L33tLayout.swift */; };
-		F41C44B21DB362B9009174A8 /* BinaryClockViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4A9E3FF1DAEBD7400018BB2 /* BinaryClockViewController.swift */; };
-		F4A9E4001DAEBD7400018BB2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4A9E3FE1DAEBD7400018BB2 /* AppDelegate.swift */; };
-		F4A9E4051DAEBD7F00018BB2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4A9E4031DAEBD7F00018BB2 /* Assets.xcassets */; };
-		F4A9E4061DAEBD7F00018BB2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4A9E4041DAEBD7F00018BB2 /* Main.storyboard */; };
-		F4C552571DAF658500827BC2 /* BinaryRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C552561DAF658500827BC2 /* BinaryRepresentable.swift */; };
-		F4C552591DAF659E00827BC2 /* TextRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C552581DAF659E00827BC2 /* TextRepresentable.swift */; };
-		F4C5525B1DAF660400827BC2 /* BinaryLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C5525A1DAF660400827BC2 /* BinaryLayout.swift */; };
-		F4C5525D1DAF68FF00827BC2 /* BinaryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C5525C1DAF68FF00827BC2 /* BinaryCell.swift */; };
-		F4C5525F1DAF691200827BC2 /* TextCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C5525E1DAF691200827BC2 /* TextCell.swift */; };
+		F41C44C61DB36403009174A8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4A9E3FE1DAEBD7400018BB2 /* AppDelegate.swift */; };
+		F41C44C71DB36403009174A8 /* BinaryClockViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4A9E3FF1DAEBD7400018BB2 /* BinaryClockViewController.swift */; };
+		F41C44C81DB36403009174A8 /* BinaryRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C552561DAF658500827BC2 /* BinaryRepresentable.swift */; };
+		F41C44C91DB36403009174A8 /* TextRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C552581DAF659E00827BC2 /* TextRepresentable.swift */; };
+		F41C44CA1DB36403009174A8 /* BinaryLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C5525A1DAF660400827BC2 /* BinaryLayout.swift */; };
+		F41C44CB1DB36403009174A8 /* BinaryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C5525C1DAF68FF00827BC2 /* BinaryCell.swift */; };
+		F41C44CC1DB36403009174A8 /* TextCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C5525E1DAF691200827BC2 /* TextCell.swift */; };
+		F41C44CD1DB36403009174A8 /* UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41C44AD1DB002BB009174A8 /* UIColor.swift */; };
+		F41C44CE1DB36403009174A8 /* L33tLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41C44AF1DB265F4009174A8 /* L33tLayout.swift */; };
+		F41C44CF1DB36409009174A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4A9E4031DAEBD7F00018BB2 /* Assets.xcassets */; };
+		F41C44D01DB36409009174A8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4A9E4041DAEBD7F00018BB2 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		F41C44AD1DB002BB009174A8 /* UIColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIColor.swift; sourceTree = "<group>"; };
 		F41C44AF1DB265F4009174A8 /* L33tLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = L33tLayout.swift; sourceTree = "<group>"; };
-		F4A9E3E91DAEBB2900018BB2 /* Binary o'clock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Binary o'clock.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F41C44B71DB363DC009174A8 /* Binary o'clock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Binary o'clock.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4A9E3F51DAEBB2900018BB2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F4A9E3FE1DAEBD7400018BB2 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F4A9E3FF1DAEBD7400018BB2 /* BinaryClockViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BinaryClockViewController.swift; sourceTree = "<group>"; };
@@ -37,7 +37,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		F4A9E3E61DAEBB2900018BB2 /* Frameworks */ = {
+		F41C44B41DB363DC009174A8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -60,7 +60,7 @@
 		F4A9E3EA1DAEBB2900018BB2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F4A9E3E91DAEBB2900018BB2 /* Binary o'clock.app */,
+				F41C44B71DB363DC009174A8 /* Binary o'clock.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -93,13 +93,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F4A9E3E81DAEBB2900018BB2 /* Binary o'clock */ = {
+		F41C44B61DB363DC009174A8 /* Binary o'clock */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F4A9E3F81DAEBB2900018BB2 /* Build configuration list for PBXNativeTarget "Binary o'clock" */;
+			buildConfigurationList = F41C44C31DB363DC009174A8 /* Build configuration list for PBXNativeTarget "Binary o'clock" */;
 			buildPhases = (
-				F4A9E3E51DAEBB2900018BB2 /* Sources */,
-				F4A9E3E61DAEBB2900018BB2 /* Frameworks */,
-				F4A9E3E71DAEBB2900018BB2 /* Resources */,
+				F41C44B31DB363DC009174A8 /* Sources */,
+				F41C44B41DB363DC009174A8 /* Frameworks */,
+				F41C44B51DB363DC009174A8 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -107,7 +107,7 @@
 			);
 			name = "Binary o'clock";
 			productName = "Binary o'clock";
-			productReference = F4A9E3E91DAEBB2900018BB2 /* Binary o'clock.app */;
+			productReference = F41C44B71DB363DC009174A8 /* Binary o'clock.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -120,7 +120,7 @@
 				LastUpgradeCheck = 0800;
 				ORGANIZATIONNAME = backslashed;
 				TargetAttributes = {
-					F4A9E3E81DAEBB2900018BB2 = {
+					F41C44B61DB363DC009174A8 = {
 						CreatedOnToolsVersion = 8.0;
 						DevelopmentTeam = Y2NHS7RD78;
 						ProvisioningStyle = Automatic;
@@ -140,43 +140,71 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F4A9E3E81DAEBB2900018BB2 /* Binary o'clock */,
+				F41C44B61DB363DC009174A8 /* Binary o'clock */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F4A9E3E71DAEBB2900018BB2 /* Resources */ = {
+		F41C44B51DB363DC009174A8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F4A9E4051DAEBD7F00018BB2 /* Assets.xcassets in Resources */,
-				F4A9E4061DAEBD7F00018BB2 /* Main.storyboard in Resources */,
+				F41C44CF1DB36409009174A8 /* Assets.xcassets in Resources */,
+				F41C44D01DB36409009174A8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		F4A9E3E51DAEBB2900018BB2 /* Sources */ = {
+		F41C44B31DB363DC009174A8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F4A9E4001DAEBD7400018BB2 /* AppDelegate.swift in Sources */,
-				F4C552571DAF658500827BC2 /* BinaryRepresentable.swift in Sources */,
-				F41C44B01DB265F4009174A8 /* L33tLayout.swift in Sources */,
-				F4C5525F1DAF691200827BC2 /* TextCell.swift in Sources */,
-				F4C552591DAF659E00827BC2 /* TextRepresentable.swift in Sources */,
-				F41C44AE1DB002BB009174A8 /* UIColor.swift in Sources */,
-				F41C44B21DB362B9009174A8 /* BinaryClockViewController.swift in Sources */,
-				F4C5525D1DAF68FF00827BC2 /* BinaryCell.swift in Sources */,
-				F4C5525B1DAF660400827BC2 /* BinaryLayout.swift in Sources */,
+				F41C44C71DB36403009174A8 /* BinaryClockViewController.swift in Sources */,
+				F41C44C61DB36403009174A8 /* AppDelegate.swift in Sources */,
+				F41C44C81DB36403009174A8 /* BinaryRepresentable.swift in Sources */,
+				F41C44CE1DB36403009174A8 /* L33tLayout.swift in Sources */,
+				F41C44CC1DB36403009174A8 /* TextCell.swift in Sources */,
+				F41C44C91DB36403009174A8 /* TextRepresentable.swift in Sources */,
+				F41C44CD1DB36403009174A8 /* UIColor.swift in Sources */,
+				F41C44CB1DB36403009174A8 /* BinaryCell.swift in Sources */,
+				F41C44CA1DB36403009174A8 /* BinaryLayout.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
+		F41C44C41DB363DC009174A8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = Y2NHS7RD78;
+				INFOPLIST_FILE = "$(SRCROOT)/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "se.backslashed.Binary-o-clock";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		F41C44C51DB363DC009174A8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = Y2NHS7RD78;
+				INFOPLIST_FILE = "$(SRCROOT)/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "se.backslashed.Binary-o-clock";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
 		F4A9E3F61DAEBB2900018BB2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -268,51 +296,22 @@
 			};
 			name = Release;
 		};
-		F4A9E3F91DAEBB2900018BB2 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				DEVELOPMENT_TEAM = Y2NHS7RD78;
-				INFOPLIST_FILE = "$(SRCROOT)/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "se.backslashed.Binary-o-clock";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
-			};
-			name = Debug;
-		};
-		F4A9E3FA1DAEBB2900018BB2 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				DEVELOPMENT_TEAM = Y2NHS7RD78;
-				INFOPLIST_FILE = "$(SRCROOT)/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "se.backslashed.Binary-o-clock";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		F41C44C31DB363DC009174A8 /* Build configuration list for PBXNativeTarget "Binary o'clock" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F41C44C41DB363DC009174A8 /* Debug */,
+				F41C44C51DB363DC009174A8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
 		F4A9E3E41DAEBB2900018BB2 /* Build configuration list for PBXProject "Binary o'clock" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F4A9E3F61DAEBB2900018BB2 /* Debug */,
 				F4A9E3F71DAEBB2900018BB2 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		F4A9E3F81DAEBB2900018BB2 /* Build configuration list for PBXNativeTarget "Binary o'clock" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				F4A9E3F91DAEBB2900018BB2 /* Debug */,
-				F4A9E3FA1DAEBB2900018BB2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
