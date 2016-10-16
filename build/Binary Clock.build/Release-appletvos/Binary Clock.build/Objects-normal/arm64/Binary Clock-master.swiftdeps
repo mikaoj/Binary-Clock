@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "91c9fcdd857384114d89234155db4238"
+build_time: [529919535, 933997000]
+inputs:
+  "/Users/home/Code/Binary Clock/Source/BinaryClockViewController.swift": [9223372036854775807, 0]
+  "/Users/home/Code/Binary Clock/Source/BinaryRepresentable.swift": [9223372036854775807, 0]
+  "/Users/home/Code/Binary Clock/Source/L33tLayout.swift": [9223372036854775807, 0]
+  "/Users/home/Code/Binary Clock/Source/AppDelegate.swift": [9223372036854775807, 0]
+  "/Users/home/Code/Binary Clock/Source/TextCell.swift": [9223372036854775807, 0]
+  "/Users/home/Code/Binary Clock/Source/TextRepresentable.swift": [9223372036854775807, 0]
+  "/Users/home/Code/Binary Clock/Source/UIColor.swift": [9223372036854775807, 0]
+  "/Users/home/Code/Binary Clock/Source/BinaryCell.swift": [9223372036854775807, 0]
+  "/Users/home/Code/Binary Clock/Source/BinaryLayout.swift": [9223372036854775807, 0]
