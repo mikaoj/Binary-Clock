@@ -45,8 +45,8 @@ class BinaryClockViewController: UIViewController {
     }
 
     func startTimer() {
-        timer = Timer.scheduledTimer(withTimeInterval: 1, repeats: true, block: { (timer) in
-            self.layout = L33tLayout()
+        timer = Timer.scheduledTimer(withTimeInterval: 1, repeats: true, block: { [weak self] (timer) in
+            self?.layout = L33tLayout()
         })
     }
 
