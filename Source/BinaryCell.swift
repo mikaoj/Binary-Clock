@@ -46,6 +46,9 @@ extension BinaryCell: BinaryRepresentable {
                 case.light, .unspecified:
                     backgroundColor = UIColor.darkLedBlue
                     layer.shadowColor = UIColor.darkLedBlue.cgColor
+                @unknown default:
+                    backgroundColor = UIColor.darkLedBlue
+                    layer.shadowColor = UIColor.darkLedBlue.cgColor
                 }
             case false:
                 alpha = 1
